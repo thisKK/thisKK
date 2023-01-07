@@ -80,18 +80,29 @@ Hi, I'm Kay!
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/thisKK"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <p>
+	    <a href="https://github.com/thisKK"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"></a>
+	    <a href="https://github.com/thisKK"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"></a>
+	    <a href="https://github.com/thisKK"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"></a>
+    </p>
+    <p>
+	<a href="https://github.com/thisKK"><img alt="GoogleCloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="AmazonAWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+	</p>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/thisKK"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Colab" src="https://img.shields.io/badge/Colab-FE7A16.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>    
-    <a href="https://github.com/thisKK"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="></a>
+	<a href="https://github.com/thisKK"><img alt="Kubernetes" src="https://img.shields.io/static/v1?message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label="></a>
+	<a href="https://github.com/thisKK"><img alt="Airflow" src="https://img.shields.io/static/v1?message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label="></a>
+	<a href="https://github.com/thisKK"><img alt="Colab" src="https://img.shields.io/badge/Colab-FE7A16.svg?logo=google-colab&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
 
