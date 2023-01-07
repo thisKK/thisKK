@@ -51,24 +51,35 @@ Hi, I'm Kay!
     <a href="https://github.com/thisKK"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/thisKK"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/thisKK"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"></a>
+    <a href="https://github.com/thisKK"><img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white"></a>
+	
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/thisKK"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%2334A853.svg?logo=selenium&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="NumPy" src="https://img.shields.io/badge/React%20-%23013243.svg?logo=React&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+   <p>
+	<a href="https://github.com/thisKK"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
+	<a href="https://github.com/thisKK"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"></a>
+	<a href="https://github.com/thisKK"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"></a>
+   </p>
+   <p>
+	<a href="https://github.com/thisKK"><img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="NestJS" src="https://img.shields.io/static/v1?message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label="></a>
+	<a href="https://github.com/thisKK"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
+   </p>
+   <p>
+	<a href="https://github.com/thisKK"><img alt="Jest" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%2334A853.svg?logo=selenium&logoColor=white"></a>
+   </p>
+   <p>
+	<a href="https://github.com/thisKK"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+	<a href="https://github.com/thisKK"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+   </p>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/thisKK"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://github.com/thisKK"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 </p>
 
