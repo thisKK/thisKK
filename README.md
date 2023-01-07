@@ -77,7 +77,7 @@ Hi, I'm Kay!
    </p>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases and Cloud
 
 <p>
     <p>
