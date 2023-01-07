@@ -20,7 +20,7 @@ Hi, I'm Kay!
 	</a>
 </p>
 -->
-
+<!--
 <pre>
 💻 I am a Machine Learning Developer
 📚 I have a Master degree in Data Science from the University Cadi Ayyad at Morocco
@@ -31,6 +31,7 @@ Hi, I'm Kay!
 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b>.
 </pre>
+-->
 
 <br/>
 
@@ -47,9 +48,9 @@ Hi, I'm Kay!
 ### 👨‍💻 Programming Languages
 
 <p>
+    <a href="https://github.com/thisKK"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/thisKK"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/thisKK"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-
+    <a href="https://github.com/thisKK"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"></a>
 ### 🧰 Frameworks and Libraries
 
 <p>
