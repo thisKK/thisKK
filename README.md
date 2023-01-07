@@ -8,30 +8,30 @@ Hi, I'm Kay!
 	<a href="https://github.com/thisKK">
 		<img src="https://komarev.com/ghpvc/?username=thisKK&label=Profile%20views&color=0e75b6&style=flat" alt="thisKK" />
 	</a>
-	<!--<a href="https://github.com/thisKK">
+	<a href="https://github.com/thisKK">
 		<img src="https://img.shields.io/github/followers/thisKK?label=Followers" alt="thisKK" />
-	</a>-->
+	</a>
 </p>
-<!--
+
 <br/>
 <p align="center">
 	<a href="https://github.com/thisKK">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Freelancer;SE%20|%20DE%20|%20AI/ML&center=true&width=380&height=45">
 	</a>
 </p>
--->
-<!--
+
+
 <pre>
-💻 I am a Machine Learning Developer
-📚 I have a Master degree in Data Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b>.
+💻 I am a Full Stack Deveper
+📚 I have a Master degree in Computer engineering from the Suranaree University of Technology
+📝 I have a strong interest in Softwate Development ,Data Processing and AI/ML
+🔭 Working on Full Stack Developer both mobile and web development including data processing
+🌟 Main languages: TypeScript, Python, Dart
 </pre>
--->
+
+<!-- 🌱 Learning about Computer Vision and Machine Learning stuff -->
+<!-- 🚩 Interested in Full Stack Machine Learning Application development, Data Engineer, Sortware Engineering  -->
+<!-- 🤔 I’m currently open for: <b>Software Engineer</b>. -->
 
 <br/>
 
