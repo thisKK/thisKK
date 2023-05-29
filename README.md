@@ -22,11 +22,11 @@ Hi, I'm Kay!
 
 
 <pre>
-💻 I am a Full Stack Deveper
-📚 I have a bachelor's degree in Computer engineering from the Suranaree University of Technology
-📝 I have a strong interest in Software Development ,Data Processing and AI/ML
-🔭 Working on Full Stack Developer both mobile and web development including data processing
-🌟 Main languages: TypeScript, Python, Dart
+💻 I am a Full Stack Developer.
+📚 I have a bachelor's degree in Computer Engineering from Suranaree University of Technology.
+📝 I have a strong interest in Software Development, Data Processing, and AI/ML.
+🔭 I work as a Full Stack Developer, specializing in both mobile and web development, including data processing.
+🌟 My main languages are TypeScript, Python, and Dart.
 </pre>
 
 <!-- 🌱 Learning about Computer Vision and Machine Learning stuff -->
