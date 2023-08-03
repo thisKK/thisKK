@@ -16,21 +16,18 @@ Hi, I'm Kay!
 <br/>
 <p align="center">
 	<a href="https://github.com/thisKK">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Freelancer;SE%20|%20DE%20|%20AI/ML&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;SE%20|%20DE%20|%20AI/ML&center=true&width=380&height=45">
 	</a>
 </p>
 
 
 <pre>
-💻 I am a Full Stack Developer.
-📚 I have a bachelor's degree in Computer Engineering from Suranaree University of Technology.
 📝 I have a strong interest in Software Development, Data Processing, and AI/ML.
 🔭 I work as a Full Stack Developer, specializing in both mobile and web development, including data processing.
-🌟 My main languages are TypeScript, Python, and Dart.
 </pre>
 
 <!-- 🌱 Learning about Computer Vision and Machine Learning stuff -->
-<!-- 🚩 Interested in Full Stack Machine Learning Application development, Data Engineer, Sortware Engineering  -->
+<!-- 🚩 Interested in Full Stack Machine Learning Application development, Data engineering, Software Engineering  -->
 <!-- 🤔 I’m currently open for: <b>Software Engineer</b>. -->
 
 <br/>
